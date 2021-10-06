@@ -49,5 +49,4 @@
 
 ## Repositorio de Github
 
-https://github.com/Ramego96/Instalaci-nNetbeans8/edit/main/README.md
-
+https://github.com/Ramego96/Instalaci-nNetbeans8/blob/main/README.md
