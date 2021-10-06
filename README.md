@@ -34,7 +34,8 @@
 
 ## Ejecución del comando para la instalación de Netbeans
 
-![Captura de pantalla_2021-10-05_18-59-48](https://user-images.githubusercontent.com/78496018/136178650-2d791869-9846-4091-aca2-135c0aaf7b45.jpg)
+![Captura de pantalla de 2021-10-06 11-22-40](https://user-images.githubusercontent.com/78496018/136186828-d3621dcd-d3b8-4d37-ac4b-ab472d6d73eb.png)
+
 
 <br>
 <br>
