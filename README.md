@@ -1,2 +1,52 @@
-# Instalaci-nNetbeans8
-Aqui explico como descargue, e instale Netbeans8
+# InstalacionNetbeans8
+
+
+#### Alumno: Ricardo Adrián Medina Gómez
+
+<br>
+
+## ÍNDICE
+
+##### Verificación del Java en mi SO.
+##### Descarga del JDK 8u111 with Netbeans 8.2
+##### Ejecución del comando para la instalación de Netbeans
+##### Finalización de la instalación
+##### Repositorio de Github
+
+<br>
+<br>
+<br>
+<br>
+
+## Verificación del Java en mi SO.
+
+![java version](https://user-images.githubusercontent.com/78496018/136178552-12fe1e3f-b772-4b94-ad34-6f011f8cdfbb.png)
+
+<br>
+<br>
+
+## Descarga del JDK 8u111 with Netbeans 8.2
+
+![licencia](https://user-images.githubusercontent.com/78496018/136178613-f08c937f-0370-4697-9e21-115a32a83f86.png)
+
+<br>
+<br>
+
+## Ejecución del comando para la instalación de Netbeans
+
+![Captura de pantalla_2021-10-05_18-59-48](https://user-images.githubusercontent.com/78496018/136178650-2d791869-9846-4091-aca2-135c0aaf7b45.jpg)
+
+<br>
+<br>
+
+## Finalización de la instalación
+
+![Captura de pantalla_2021-10-05_19-01-21](https://user-images.githubusercontent.com/78496018/136178670-3f31abe5-76ee-4b72-982c-6df65caca4da.jpg)
+
+<br>
+<br>
+
+## Repositorio de Github
+
+https://github.com/Ramego96/Instalaci-nNetbeans8/edit/main/README.md
+
